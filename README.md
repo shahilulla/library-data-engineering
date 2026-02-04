@@ -14,5 +14,14 @@ This project implements a Library Management & Analytics System using PostgreSQL
 - SQL
 - PL/pgSQL
 
+## Project Structure
+
+- `sql/schema.sql` — Creates database schema
+- `sql/tables.sql` — Table definitions
+- `sql/functions.sql` — Fine calculation logic
+- `sql/procedures.sql` — ETL stored procedures
+- `sql/views.sql` — Analytics views
+- `data/` — CSV sample output (if any)
+
 ## Business Use
 Used to monitor overdue books, student fines, and borrowing trends.

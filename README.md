@@ -1,3 +1,5 @@
+![GitHub Repo Size](https://img.shields.io/github/repo-size/shahilulla/library-data-engineering)
+![License](https://img.shields.io/github/license/shahilulla/library-data-engineering)
 # Library Data Engineering Project
 
 This project implements a Library Management & Analytics System using PostgreSQL.
